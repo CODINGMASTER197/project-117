@@ -1,0 +1,40 @@
+
+
+body{
+    font-family: 'Gemunu Libre', sans-serif;
+    background-color: aquamarine;
+}
+
+.header_div{
+   background: cyan;
+   color: blueviolet;
+   text-align: center;
+}
+.header_div p{
+    font-family:'Gemunu Libre', sans-serif;
+    color: blanchedalmond;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+.main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: bisque;
+}
+.copy_right_footer{
+    position: fixed;
+    color: aqua;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: orange;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(red, green, blue);
+    
+}
